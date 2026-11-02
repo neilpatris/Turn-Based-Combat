@@ -1,7 +1,6 @@
 # Turn-Based Combat
 
-A small turn-based combat game written in C# (.NET 10). You fight an enemy in the console: each turn you spend your action points on attacks or a potion, then the enemy strikes back. The combat ends as soon as one of the two units dies.
-This project is based on a turn-based version of the RPG Combat Kata : https://github.com/ardalis/kata-catalog/blob/main/katas/RPG%20Combat.md.
+A turn-based fight against an enemy, played in the console and written in C# (.NET 10). Each turn you get 3 action points to attack or drink a potion, then the enemy hits back, until one of you drops to 0 HP.
 
 The goal was to practice the State pattern, events with `Action<T>`, abstract classes, interfaces and unit testing with NUnit.
 

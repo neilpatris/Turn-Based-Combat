@@ -481,5 +481,8 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# Personal study notes (not part of the project)
+# Personal notes
 Notes/
+
+# Personal editor settings
+.vscode/
