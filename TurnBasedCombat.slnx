@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TurnBasedCombat.Console/TurnBasedCombat.Console.csproj" />
+  <Project Path="TurnBasedCombat.Core/TurnBasedCombat.Core.csproj" />
+  <Project Path="TurnBasedCombat.Tests/TurnBasedCombat.Tests.csproj" />
+</Solution>
